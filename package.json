@@ -1,0 +1,18 @@
+{
+  "name": "A03Gembali",
+  "version": "1.0.0",
+   "dependencies": {
+       "express":"latest",
+       "body-parser":"latest",
+    "mailgun-js":"latest",
+    "ejs":"latest",
+    "morgan":"latest"
+  },
+  
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "license": "UNLICENSED",
+  "description": "A03 Gembali"
+}
