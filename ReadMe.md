@@ -8,5 +8,4 @@ Here it has 3 pages one for personal information,contact information and employe
 
 3.Contact information,where one can send messages to me and have my profile links to bitbucket,github and linkedin.
 
-4.Added a guestbook tab where we can enter guestbook entries in it.
 
